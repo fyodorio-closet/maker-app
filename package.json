@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "flow-bin": "^0.62.0",
+    "gh-pages": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
@@ -14,7 +15,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "flow": "flow",
-    "eslint": "./node_modules/.bin/eslint src"
+    "eslint": "./node_modules/.bin/eslint src",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "eslint": "^4.14.0",
@@ -25,5 +28,6 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-react": "^7.5.1",
     "eslint-plugin-standard": "^3.0.1"
-  }
+  },
+  "homepage": "https://loenko.github.io/maker"
 }
