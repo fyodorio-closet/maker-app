@@ -20,11 +20,11 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="298">
+              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding>
-                <marker date="1515000939974" expanded="true" signature="0:917" ph="{&quot;name&quot;: &quot;maker&quot;...}" />
-                <marker date="1515000939974" expanded="true" signature="80:87" ph="{&quot;react&quot;: &quot;^16.2.0&quot;...}" />
+                <marker date="1515001251989" expanded="true" signature="0:921" ph="{&quot;name&quot;: &quot;maker&quot;...}" />
+                <marker date="1515001251989" expanded="true" signature="80:87" ph="{&quot;react&quot;: &quot;^16.2.0&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -158,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514828048172</updated>
-      <workItem from="1514828052658" duration="5021000" />
+      <workItem from="1514828052658" duration="5204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5021000" />
+    <option name="totallyTimeSpent" value="5204000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,11 +367,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="298">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
-            <marker date="1515000939974" expanded="true" signature="0:917" ph="{&quot;name&quot;: &quot;maker&quot;...}" />
-            <marker date="1515000939974" expanded="true" signature="80:87" ph="{&quot;react&quot;: &quot;^16.2.0&quot;...}" />
+            <marker date="1515001251989" expanded="true" signature="0:921" ph="{&quot;name&quot;: &quot;maker&quot;...}" />
+            <marker date="1515001251989" expanded="true" signature="80:87" ph="{&quot;react&quot;: &quot;^16.2.0&quot;...}" />
           </folding>
         </state>
       </provider>
