@@ -6,7 +6,7 @@ class App extends Component {
     return ( 
       <div className='App'>
         <header className='App-header'>
-          <h1 className='App-title'>Maker</h1>
+          <h1 className='App-title'>maker.</h1>
         </header>
         <p className='App-intro'>
           The best app for managing your tasks.
