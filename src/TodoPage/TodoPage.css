@@ -1,0 +1,7 @@
+.todo-page{
+    margin: auto;
+    width: 345px;
+}
+.todo-page>h1{
+    text-align: center;
+}
