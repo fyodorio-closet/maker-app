@@ -1,6 +1,7 @@
 .todo-page{
     margin: auto;
-    width: 345px;
+    max-width: 345px;
+    width: 95vw;
 }
 .todo-page>h1{
     text-align: center;
